@@ -5,7 +5,8 @@
     "prettier/prettier": ["error"],
     "react/jsx-filename-extension": "off",
     "react/jsx-one-expression-per-line": "off",
-    "no-param-reassign": ["error", { "props": false }]
+    "no-param-reassign": ["error", { "props": false }],
+    "react/prop-types": "off"
   },
   "env": {
     "browser": true,
