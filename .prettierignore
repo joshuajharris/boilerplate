@@ -1,0 +1,9 @@
+coverage
+build
+node_modules
+.DS_Store
+public
+
+cypress/videos
+cypress/screenshots
+.env
