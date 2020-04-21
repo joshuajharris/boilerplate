@@ -5,8 +5,11 @@
     "prettier/prettier": ["error"],
     "react/jsx-filename-extension": "off",
     "react/jsx-one-expression-per-line": "off",
+    "react/prop-types": "off",
     "no-param-reassign": ["error", { "props": false }],
-    "react/prop-types": "off"
+    "consistent-return": "off",
+    "import/no-extraneous-dependencies": "off",
+    "import/prefer-default-export": "off"
   },
   "env": {
     "browser": true,
